@@ -12,7 +12,11 @@ A simple command-line grocery list application built using Python.
 ```bash
 python grocery_list.py
 
-.gitignore
-__pycache__/
-*.pyc
-grocery_data.json
+
+Tech Stack:  Python
+
+
+grocery-list/
+├── grocery_list.py
+├── README.md
+└── .gitignore
